@@ -1,0 +1,28 @@
+{"mc":{
+	"prop_rocket":{
+		"frameRate":8,
+		"labels":[
+			{"name":"prop_rocket","frame":1,"end":2}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"game_prop_rocket_move_1",
+			"x":14,
+			"y":3
+			},
+			{
+			"res":"game_prop_rocket_move_2",
+			"x":0,
+			"y":0
+			}
+			]
+}},
+	"res":{
+		"game_prop_rocket_move_1":{"x":200,"y":0,"w":171,"h":180},
+		"game_prop_rocket_move_2":{"x":0,"y":0,"w":200,"h":193}
+	}}

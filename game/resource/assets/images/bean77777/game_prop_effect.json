@@ -1,0 +1,65 @@
+{"mc":{
+	"game_prop_effect":{
+		"frameRate":12,
+		"labels":[
+			{"name":"game_prop_magnet","frame":1,"end":4}
+			,{"name":"game_prop_rocket","frame":5,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"game_prop_magnet_1",
+			"x":8,
+			"y":10
+			},
+			{
+			"res":"game_prop_magnet_2",
+			"x":4,
+			"y":5
+			},
+			{
+			"res":"game_prop_magnet_3",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"game_prop_magnet_4",
+			"x":4,
+			"y":5
+			},
+			{
+			"res":"game_prop_rocket_1",
+			"x":5,
+			"y":10
+			},
+			{
+			"res":"game_prop_rocket_2",
+			"x":2,
+			"y":5
+			},
+			{
+			"res":"game_prop_rocket_3",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"game_prop_rocket_4",
+			"x":2,
+			"y":5
+			}
+			]
+}},
+	"res":{
+		"game_prop_magnet_2":{"x":85,"y":125,"w":77,"h":96},
+		"game_prop_rocket_3":{"x":0,"y":0,"w":74,"h":135},
+		"game_prop_rocket_1":{"x":144,"y":0,"w":64,"h":115},
+		"game_prop_rocket_2":{"x":74,"y":0,"w":70,"h":125},
+		"game_prop_magnet_4":{"x":85,"y":125,"w":77,"h":96},
+		"game_prop_magnet_3":{"x":0,"y":135,"w":85,"h":106},
+		"game_prop_magnet_1":{"x":162,"y":115,"w":69,"h":86},
+		"game_prop_rocket_4":{"x":74,"y":0,"w":70,"h":125}
+	}}

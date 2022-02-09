@@ -1,0 +1,4 @@
+{"file":"Frame.png","frames":{
+"frame_sure":{"x":1,"y":374,"w":159,"h":64,"offX":0,"offY":0,"sourceW":159,"sourceH":64},
+"frame_bg":{"x":1,"y":1,"w":510,"h":297,"offX":0,"offY":0,"sourceW":510,"sourceH":297},
+"frame_close":{"x":1,"y":304,"w":159,"h":64,"offX":0,"offY":0,"sourceW":159,"sourceH":64}}}

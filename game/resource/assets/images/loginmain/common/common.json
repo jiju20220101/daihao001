@@ -1,0 +1,8 @@
+{"file":"common.png","frames":{
+"tips1_png":{"x":597,"y":786,"w":370,"h":304,"offX":0,"offY":0,"sourceW":370,"sourceH":304},
+"tips_demond_png":{"x":696,"y":96,"w":139,"h":121,"offX":2,"offY":2,"sourceW":143,"sourceH":124},
+"tips_bg_1_png":{"x":0,"y":0,"w":694,"h":784,"offX":0,"offY":0,"sourceW":694,"sourceH":784},
+"tips_png":{"x":0,"y":786,"w":595,"h":304,"offX":0,"offY":0,"sourceW":595,"sourceH":304},
+"store_title_png":{"x":696,"y":0,"w":262,"h":94,"offX":0,"offY":0,"sourceW":262,"sourceH":94},
+"rank_back_png":{"x":837,"y":96,"w":115,"h":86,"offX":0,"offY":0,"sourceW":115,"sourceH":86},
+"mask_bg_png":{"x":954,"y":96,"w":30,"h":30,"offX":0,"offY":0,"sourceW":30,"sourceH":30}}}

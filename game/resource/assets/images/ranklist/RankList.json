@@ -1,0 +1,13 @@
+{"file":"RankList.png","frames":{
+"rankbg":{"x":1,"y":1,"w":720,"h":1280,"offX":0,"offY":0,"sourceW":720,"sourceH":1280},
+"ranklistbg1":{"x":727,"y":861,"w":592,"h":104,"offX":0,"offY":0,"sourceW":592,"sourceH":104},
+"ranklistbg2":{"x":711,"y":1287,"w":592,"h":105,"offX":0,"offY":0,"sourceW":592,"sourceH":105},
+"borderImg":{"x":889,"y":1183,"w":75,"h":75,"offX":0,"offY":0,"sourceW":75,"sourceH":75},
+"headicon":{"x":808,"y":1183,"w":75,"h":75,"offX":0,"offY":0,"sourceW":75,"sourceH":75},
+"mask":{"x":727,"y":1183,"w":75,"h":75,"offX":0,"offY":0,"sourceW":75,"sourceH":75},
+"rank_listbg":{"x":727,"y":1,"w":690,"h":854,"offX":2,"offY":1,"sourceW":694,"sourceH":857},
+"rank_mylist":{"x":1,"y":1287,"w":704,"h":170,"offX":0,"offY":0,"sourceW":704,"sourceH":170},
+"rank_one":{"x":1325,"y":861,"w":88,"h":75,"offX":0,"offY":0,"sourceW":88,"sourceH":75},
+"rank_three":{"x":727,"y":1025,"w":90,"h":73,"offX":0,"offY":0,"sourceW":90,"sourceH":73},
+"rank_title":{"x":727,"y":971,"w":623,"h":48,"offX":0,"offY":0,"sourceW":623,"sourceH":48},
+"rank_two":{"x":727,"y":1104,"w":89,"h":73,"offX":0,"offY":0,"sourceW":89,"sourceH":73}}}

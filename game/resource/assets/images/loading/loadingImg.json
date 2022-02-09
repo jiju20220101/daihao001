@@ -1,0 +1,7 @@
+{"file":"loadingImg.png","frames":{
+"load_dian3":{"x":114,"y":329,"w":27,"h":6,"offX":0,"offY":0,"sourceW":27,"sourceH":6},
+"load_Loading...":{"x":1,"y":329,"w":107,"h":26,"offX":0,"offY":0,"sourceW":107,"sourceH":26},
+"load_bird":{"x":1,"y":207,"w":122,"h":116,"offX":0,"offY":0,"sourceW":122,"sourceH":116},
+"load_cicle":{"x":1,"y":1,"w":200,"h":200,"offX":0,"offY":0,"sourceW":200,"sourceH":200},
+"load_dian1":{"x":129,"y":219,"w":9,"h":6,"offX":0,"offY":0,"sourceW":9,"sourceH":6},
+"load_dian2":{"x":129,"y":207,"w":18,"h":6,"offX":0,"offY":0,"sourceW":18,"sourceH":6}}}

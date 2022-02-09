@@ -1,0 +1,15 @@
+{"file":"result.png","frames":{
+"result_video_en_png":{"x":0,"y":590,"w":389,"h":115,"offX":0,"offY":0,"sourceW":389,"sourceH":115},
+"result_video_cn_png":{"x":0,"y":707,"w":369,"h":115,"offX":0,"offY":0,"sourceW":369,"sourceH":115},
+"result_video_png":{"x":391,"y":688,"w":369,"h":115,"offX":0,"offY":0,"sourceW":369,"sourceH":115},
+"result_panel_en_png":{"x":0,"y":824,"w":207,"h":53,"offX":0,"offY":0,"sourceW":207,"sourceH":53},
+"result_panel_cn_png":{"x":742,"y":888,"w":211,"h":61,"offX":0,"offY":0,"sourceW":211,"sourceH":61},
+"result_panel_png":{"x":762,"y":688,"w":215,"h":62,"offX":0,"offY":0,"sourceW":215,"sourceH":62},
+"result_live_en_png":{"x":762,"y":752,"w":199,"h":33,"offX":0,"offY":0,"sourceW":199,"sourceH":33},
+"result_live_cn_png":{"x":209,"y":824,"w":101,"h":49,"offX":0,"offY":0,"sourceW":101,"sourceH":49},
+"result_live_png":{"x":209,"y":875,"w":101,"h":49,"offX":0,"offY":0,"sourceW":101,"sourceH":49},
+"result_demoind_en_png":{"x":391,"y":590,"w":463,"h":96,"offX":0,"offY":0,"sourceW":464,"sourceH":96},
+"result_demoind_png":{"x":371,"y":805,"w":369,"h":115,"offX":0,"offY":0,"sourceW":369,"sourceH":115},
+"result_btn_png":{"x":742,"y":805,"w":257,"h":81,"offX":0,"offY":0,"sourceW":257,"sourceH":81},
+"result_box_png":{"x":0,"y":0,"w":720,"h":588,"offX":0,"offY":6,"sourceW":720,"sourceH":594},
+"result_back_png":{"x":963,"y":752,"w":45,"h":47,"offX":0,"offY":0,"sourceW":45,"sourceH":47}}}

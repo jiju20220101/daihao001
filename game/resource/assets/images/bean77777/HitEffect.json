@@ -1,0 +1,58 @@
+{"mc":{
+	"HitEffect":{
+		"frameRate":24,
+		"labels":[
+			{"name":"HitEffect","frame":1,"end":7}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"game_bump_1",
+			"x":67,
+			"y":71
+			},
+			{
+			"res":"game_bump_2",
+			"x":46,
+			"y":57
+			},
+			{
+			"res":"game_bump_3",
+			"x":34,
+			"y":40
+			},
+			{
+			"res":"game_bump_4",
+			"x":20,
+			"y":20
+			},
+			{
+			"res":"game_bump_5",
+			"x":3,
+			"y":25
+			},
+			{
+			"res":"game_bump_6",
+			"x":0,
+			"y":18
+			},
+			{
+			"res":"game_bump_7",
+			"x":0,
+			"y":18
+			}
+			]
+}},
+	"res":{
+		"game_bump_1":{"x":402,"y":187,"w":98,"h":61},
+		"game_bump_4":{"x":215,"y":187,"w":187,"h":166},
+		"game_bump_7":{"x":224,"y":0,"w":223,"h":187},
+		"game_bump_5":{"x":0,"y":187,"w":215,"h":169},
+		"game_bump_3":{"x":0,"y":356,"w":156,"h":133},
+		"game_bump_6":{"x":0,"y":0,"w":224,"h":187},
+		"game_bump_2":{"x":156,"y":356,"w":131,"h":109}
+	}}

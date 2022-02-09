@@ -1,0 +1,30 @@
+{
+    "zh_cn": { 
+        "plogin_tourist": "游客", 
+        "psetting_title":"设置",
+        "psetting_language":"简体中文",
+        "psetting_music_on":"音效: 开",
+        "psetting_music_off":"音效: 关",
+        "psetting_login":"登录",
+        "psetting_logout":"退出",
+        "psetting_rate":"给我们评价",
+        "psetting_likeus":"给我们点赞",
+        "psetting_follow":"关注我们",
+        "pstore_title":"商城",
+        "pstore_unit":"个",
+        "pstore_diamond":"钻石",
+        "pmain_rank":"排行榜",
+        "pmain_share":"分享",
+        "psignin_receive":"领取",
+        "psignin_receive_double":"领取双倍",
+        "tips_main01": "温馨提示：每日大礼包钻石抽取区间为10-999钻石"        
+    },
+    "zh_tw": {   
+        "plogin_tourist": "遊客",          
+        "rank": "排行榜"  
+    },
+    "en_us":{   
+        "plogin_tourist": "Guest",   
+        "rank": "Rank"  
+    }
+}

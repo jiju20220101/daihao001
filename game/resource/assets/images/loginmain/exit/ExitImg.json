@@ -1,0 +1,6 @@
+{"file":"ExitImg.png","frames":{
+"exit_panel":{"x":3,"y":3,"w":514,"h":590,"offX":0,"offY":0,"sourceW":514,"sourceH":590},
+"exit_back":{"x":523,"y":342,"w":184,"h":83,"offX":0,"offY":0,"sourceW":184,"sourceH":83},
+"exit_bird":{"x":523,"y":3,"w":383,"h":333,"offX":1,"offY":0,"sourceW":395,"sourceH":333},
+"exit_cuo":{"x":912,"y":3,"w":87,"h":87,"offX":0,"offY":0,"sourceW":87,"sourceH":87},
+"exit_in":{"x":713,"y":342,"w":184,"h":83,"offX":0,"offY":0,"sourceW":184,"sourceH":83}}}

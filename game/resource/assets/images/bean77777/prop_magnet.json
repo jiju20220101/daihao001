@@ -1,0 +1,28 @@
+{"mc":{
+	"prop_magnet":{
+		"frameRate":8,
+		"labels":[
+			{"name":"prop_magnet","frame":1,"end":2}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"game_prop_magnet_move_1",
+			"x":16,
+			"y":4
+			},
+			{
+			"res":"game_prop_magnet_move_2",
+			"x":0,
+			"y":1
+			}
+			]
+}},
+	"res":{
+		"game_prop_magnet_move_2":{"x":0,"y":0,"w":200,"h":192},
+		"game_prop_magnet_move_1":{"x":200,"y":0,"w":171,"h":179}
+	}}

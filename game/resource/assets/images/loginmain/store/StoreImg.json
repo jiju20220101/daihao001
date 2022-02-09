@@ -1,0 +1,17 @@
+{"file":"StoreImg.png","frames":{
+"diamond_btn":{"x":579,"y":271,"w":337,"h":118,"offX":0,"offY":0,"sourceW":337,"sourceH":118},
+"diamond_btn_en":{"x":579,"y":147,"w":337,"h":118,"offX":0,"offY":0,"sourceW":337,"sourceH":118},
+"store_bg":{"x":3,"y":277,"w":178,"h":172,"offX":0,"offY":0,"sourceW":178,"sourceH":172},
+"store_bg1":{"x":850,"y":3,"w":127,"h":118,"offX":0,"offY":0,"sourceW":127,"sourceH":118},
+"store_box":{"x":3,"y":147,"w":570,"h":124,"offX":0,"offY":0,"sourceW":570,"sourceH":124},
+"store_boxbg":{"x":983,"y":3,"w":30,"h":30,"offX":0,"offY":0,"sourceW":30,"sourceH":30},
+"store_cuo":{"x":187,"y":346,"w":70,"h":72,"offX":0,"offY":0,"sourceW":70,"sourceH":72},
+"store_d1":{"x":322,"y":277,"w":78,"h":74,"offX":0,"offY":0,"sourceW":78,"sourceH":74},
+"store_d2":{"x":922,"y":382,"w":85,"h":76,"offX":0,"offY":0,"sourceW":85,"sourceH":76},
+"store_d3":{"x":922,"y":211,"w":88,"h":82,"offX":0,"offY":0,"sourceW":88,"sourceH":82},
+"store_d4":{"x":922,"y":299,"w":84,"h":77,"offX":0,"offY":0,"sourceW":84,"sourceH":77},
+"store_d5":{"x":922,"y":127,"w":94,"h":78,"offX":0,"offY":0,"sourceW":94,"sourceH":78},
+"store_peng":{"x":3,"y":3,"w":692,"h":138,"offX":0,"offY":0,"sourceW":692,"sourceH":138},
+"ad_btn":{"x":701,"y":3,"w":143,"h":135,"offX":0,"offY":0,"sourceW":143,"sourceH":135},
+"bug_btn":{"x":187,"y":277,"w":129,"h":63,"offX":0,"offY":0,"sourceW":129,"sourceH":63},
+"diamond_add":{"x":983,"y":39,"w":20,"h":21,"offX":0,"offY":0,"sourceW":20,"sourceH":21}}}
